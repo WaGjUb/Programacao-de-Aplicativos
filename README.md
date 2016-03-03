@@ -1,2 +1,2 @@
 # Programacao-de-Aplicativos
-Aulas ed programação de aplicativos
+Aulas de programação de aplicativos
